@@ -1,0 +1,63 @@
+username: GHuberZ
+
+profile:
+  name: "GHuberZ"
+  tagline: "Full-Stack разработчик | 120 WPM"
+  bio: "Информационные системы и программирование: HTML / CSS / JS / PHP / Python / MySQL / PostgreSQL / Arch / Astra / 1C / Битрикс24 / Blender / FL Studio / Компас-3D"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - HTML
+      - CSS
+      - JavaScript
+      - PHP
+
+  - name: "Backend & DB"
+    color: "synapse_cyan"
+    items:
+      - Python
+      - MySQL
+      - PostgreSQL
+
+  - name: "OS & Tools"
+    color: "axon_amber"
+    items:
+      - Arch Linux
+      - Astra Linux
+      - Windows 10
+      - VS Code
+      - VPS
+      - Open Server Panel
+      - Tilda
+
+  - name: "Creative & Enterprise"
+    color: "dendrite_violet"
+    items:
+      - Blender
+      - FL Studio
+      - Kompas-3D
+      - Битрикс24
+      - 1C Enterprise
+
+  - name: "Misc"
+    color: "synapse_cyan"
+    items:
+      - Morse Code (EN)
+
+projects: []
+
+stats:
+  metrics:
+    - commits
+    - stars
+    - prs
+    - issues
+    - repos
+
+languages:
+  exclude:
+    - HTML
+    - CSS
+  max_display: 6
